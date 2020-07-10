@@ -7,10 +7,10 @@ Created on Jul 6th, 2020.
   - 姚镔炜 518021911182 [BigBinnie](https://github.com/orgs/Amoy-interest/people/BigBinnie)
   - 吴泽川 518021910168 [bigOnion](https://github.com/orgs/Amoy-interest/people/explodingnerk)
   - 莫戈泉 518021910917 [mokkkkk](https://github.com/orgs/Amoy-interest/people/mokkkkk)
-- [Project Introduction](https://github.com/Amoy-interest/Doc/project-introduction.md)
-- [Meeting Minutes](https://github.com/Amoy-interest/Doc/meeting)
-- [Schedule](https://github.com/Amoy-interest/Doc/schedule.md)
-- [Footprint](https://github.com/Amoy-interest/Doc/footprint.md)
+- [Project Introduction](https://github.com/Amoy-interest/Doc/blob/master/project-introduction.md)
+- [Meeting Minutes](https://github.com/Amoy-interest/Doc/tree/master/meeting)
+- [Schedule](https://github.com/Amoy-interest/Doc/blob/master/schedule.md)
+- [Footprint](https://github.com/Amoy-interest/Doc/blob/master/footprint.md)
 
 
 
