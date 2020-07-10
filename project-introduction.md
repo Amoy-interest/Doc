@@ -25,6 +25,7 @@
 
 - Front-end
   - React
+  - Material-UI
 - Back-end
   - Spring Boot, Maven
   - JWT
