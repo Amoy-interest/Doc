@@ -33,5 +33,5 @@
 - Devops
   - Docker
   - Aws Ec2
-  - Aws Bucket
+  - Aws Amplify
 
