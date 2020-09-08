@@ -12,5 +12,5 @@ Created on Jul 6th, 2020.
 - [Schedule](https://github.com/Amoy-interest/Doc/blob/master/schedule.md)
 - [Footprint](https://github.com/Amoy-interest/Doc/blob/master/footprint.md)
 
-
+- [Final Doc](https://github.com/Amoy-interest/Doc/tree/master/final)
 
